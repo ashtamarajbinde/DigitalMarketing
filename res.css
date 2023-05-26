@@ -1,0 +1,130 @@
+@media(max-width:1300px) {
+
+    /* navbar */
+    .header_wraper .menu-navbar-nav {
+        width: auto;
+    }
+}
+
+@media(max-width:1230px) {
+    .header_wraper .menu-navbar-nav {
+        width: 0 5px;
+    }
+
+    .header_wraper .learn-more-btn {
+        padding: 12px 10px;
+    }
+
+    /* banner */
+    .banner_wraper .banner-title {
+        font-size: 50px;
+    }
+}
+
+
+@media(max-width:1070px) {
+    .header_wraper .nav-item .nav-link {
+        font-size: 14px;
+    }
+
+    /* about*/
+    .about_wraper .about_title {
+        font-size: 16px;
+    }
+}
+
+@media(max-width:991px) {
+    .header_wraper .navbar-brand img {
+        width: 180px;
+    }
+
+    .header_wraper .navbar-toggler:focus {
+        box-shadow: none;
+    }
+
+    .header_wraper .menu-navbar-nav {
+        text-align: center;
+    }
+
+    .header_wraper .nav-item .nav-link {
+        margin-top: 15px;
+        font-size: 18px;
+    }
+
+    .header_wraper .nav-item:last-child .nav-link {
+        margin-bottom: 20px;
+    }
+
+    .header_wraper .learn-more-btn {
+        padding: 6px 29px;
+    }
+
+    .header_wraper .navbar-collapse {
+        background-color: white;
+    }
+
+    /* banner */
+    .banner_wraper .banner-title {
+        font-size: 36px;
+    }
+
+    /* about*/
+    .about_wraper .about_number {
+        margin: 20px auto;
+    }
+
+    .about_wraper .about_title {
+        font-size: 24px;
+    }
+}
+
+
+@media(max-width:767px) {
+
+    /* banner */
+    .banner_wraper {
+        padding: 5 100px;
+    }
+
+    .banner_wraper .row {
+        flex-direction: column-reverse;
+    }
+
+    .banner_wraper .learn-more-btn-section {
+        justify-content: center;
+    }
+
+    /* pricing */
+    .free_trial .free_title{
+        font-size: 24px;
+    }
+
+    /* faq */
+    .faq_wraper .accordion-button{
+        font-size: 18px;
+    }
+
+    /* footer */
+  .footer_wraper .footer_logo img{
+    max-width: 50%;
+  }
+}
+
+
+
+/* client section */
+
+@media screen and (max-width:1120px) {
+
+    #header-wrapper .navbar-brand img {
+        width: 170px;
+    }
+
+    #header-wrapper .nav-item {
+        padding: 0 0.3rem;
+    }
+
+    #header-wrapper .navbar-nav .btn {
+        padding: 0.4rem 0.8rem;
+    }
+}
