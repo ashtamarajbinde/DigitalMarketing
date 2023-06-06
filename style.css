@@ -391,7 +391,7 @@ div .learn-more-btn {
 
 
 .features_wraper .ft-1:before {
-    content: url(images/consultancy.png);
+    content: url(images/9.jpg);
     position: absolute;
     display: block;
     margin-top: -70px;
@@ -400,35 +400,35 @@ div .learn-more-btn {
 
 
 .features_wraper .ft-2:before {
-    content: url(images/solutions.png);
+    content: url(images/10.jpg);
     position: absolute;
     display: block;
     margin-top: -70px;
 }
 
 .features_wraper .ft-3:before {
-    content: url(images/simple.png);
+    content: url(images/11.jpg);
     position: absolute;
     display: block;
     margin-top: -70px;
 }
 
 .features_wraper .ft-4:before {
-    content: url(images/deadline.png);
+    content: url(images/12.jpg);
     position: absolute;
     display: block;
     margin-top: -70px;
 }
 
 .features_wraper .ft-5:before {
-    content: url(images/data.png);
+    content: url(images/13.jpg);
     position: absolute;
     display: block;
     margin-top: -70px;
 }
 
 .features_wraper .ft-6:before {
-    content: url(images/flexible.png);
+    content: url(images/14.jpg);
     position: absolute;
     display: block;
     margin-top: -70px;
